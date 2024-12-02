@@ -1,0 +1,63 @@
+h1,h2{
+    color: rgb(92, 92, 223);
+    
+    
+}
+h1,h5{
+  text-align: left;
+  }
+  
+
+h2{
+    text-decoration-line: underline;
+}
+
+h4{
+    color: brown;
+    margin-top: -2%;
+}
+.resume {
+    max-width: 800px;
+    margin: 100px auto;
+    background: #f2f5f4;
+    padding: 60px;
+  }
+header{
+    text-align: center;
+    margin-bottom: 20px;
+}
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #a59f9f;
+}
+.top-left {
+    position: absolute;
+    top: 38%; 
+    left: 72%; 
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border:5px solid rgb(82, 79, 79);
+  }
+  body{
+    margin: 3% 3% 3% 3% ;
+    padding: 1% 1% 1% 1%;
+    
+  }
+  .aboutme{
+    margin-bottom: 30px;
+    text-align: justify;
+  }
+  .Skills{
+    margin-bottom:  30px;
+    text-align: justify;
+  }
+  .Professionalexperience {
+    margin-bottom:  30px;
+    text-align: justify;
+  }
+  .education{
+    margin-bottom:  30px;
+    text-align: justify;
+  }
